@@ -26,9 +26,9 @@
 >
 </iframe>
 
-**Detectives Battle (Theme of Chapter V)**
-
 <br>
+
+**Detectives Battle (Theme of Chapter V)**
 
 <iframe
 	width="560"
