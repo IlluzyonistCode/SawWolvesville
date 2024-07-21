@@ -28,6 +28,8 @@
 
 **Detectives Battle (Theme of Chapter V)**
 
+<br>
+
 <iframe
 	width="560"
 	height="315"
