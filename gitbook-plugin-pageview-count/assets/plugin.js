@@ -10,15 +10,16 @@ function requestCount() {
   const [chapther, part] = window.location.pathname.split('/').slice(1, 3);
 
   const endpoints = {
-    '': '3l9lbj4STJ',
+    '': 'lyqWSq46kM',
     'Main_Characters.html': '3II1t9HH6j',
     'corruptor': 'Ou3g0VVxKS',
     'evil-detective': 'wUFcLKQsS8',
     'arsonist': '3wagwdhXQp',
     'illusionist': '7YZJXuhEH8',
     'bomber': 'FpJrjusD77',
-    'ws1': 'sOUQf7D1hD',
-    'cannibal': 'qCFixKFCBn'
+    'cannibal': 'qCFixKFCBn',
+    'hypno': 'fh8hncaVdF',
+    'ost': 'eKuhq8wMIJ'
   }
 
   let endpoint = 'https://count.cab/' + (part ? 'get/' : 'hit/') + endpoints[chapther];

@@ -1,6 +1,6 @@
 # 🎵 OST
 
-**Hello Vit (Theme of Chapter I)**
+**Hello Vit (Chapter I)**
 
 <iframe
 	width="560"
@@ -14,7 +14,7 @@
 
 <br>
 
-**Detectives Battle (Theme of Chapter II)**
+**Detectives Battle (Chapter II)**
 
 <iframe
 	width="560"
@@ -28,7 +28,7 @@
 
 <br>
 
-**Detectives Battle (Theme of Chapter V)**
+**The Game of His Life (Chapter V)**
 
 <iframe
 	width="560"

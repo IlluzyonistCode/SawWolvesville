@@ -61,4 +61,4 @@
   - [ENDING](cannibal/ending.md)
 - [🎲 Chapter VII. Hypno](hypno/README.md)
 - [🎵 OST](ost/README.md)
-- 🔒 01.08.2024
+- 🔒 ??.??.2024
