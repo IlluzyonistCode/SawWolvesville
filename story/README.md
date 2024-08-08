@@ -7,3 +7,7 @@ On his way, he meets a girl who seems to be just as smart as he is. And she is d
 Vitaly has one weakness – love, which constantly gets in his way. Its used by a group of friends who are never left out. Every game hides something that he could not have foreseen. And in the end, it opens, leaning on him with terrible force. He only gets more insane, and with each defeat, he is filled with the desire for revenge.
 
 Wolvesville players, get ready. He is about to start his game. You will never forget it...
+
+<br>
+
+![Saw: Wolvesville](SW.jpg "Saw: Wolvesville")
