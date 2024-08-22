@@ -1,6 +1,6 @@
 **...**
 
-**VitalijKo: Hi everyone... My name is Vitaly. I won't be here for long. Just wanted to give you some information that, if you use it correctly, will help you win. But it's up to you to decide whether you listen to it or not.**
+**VitalijKo:** Hi everyone... My name is Vitaly. I won't be here for long. Just wanted to give you some information that, if you use it correctly, will help you win. But it's up to you to decide whether you listen to it or not.**
 
 **VitalijKo:** One player is about to die. I've encrypted his number, day and cause of death. If you solve the code, you have a chance to save him. If you fail to do so, he will inevitably die. But worse, you'll get a new code, with a new victim.
 
