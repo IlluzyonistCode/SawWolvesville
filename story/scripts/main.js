@@ -78,4 +78,3 @@ new MutationObserver((mutations) => {
   document.querySelector('title'),
   { subtree: true, characterData: true, childList: true }
 );
-

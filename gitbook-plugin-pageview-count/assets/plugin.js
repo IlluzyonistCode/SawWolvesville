@@ -20,7 +20,7 @@ function requestCount() {
     'cannibal': 'qCFixKFCBn',
     'hypno': 'fh8hncaVdF',
     'ost': 'eKuhq8wMIJ'
-  }
+  };
 
   let endpoint = 'https://count.cab/' + (part ? 'get/' : 'hit/') + endpoints[chapther];
 
