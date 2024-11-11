@@ -7,7 +7,7 @@ var iconSVg = '<svg t="1543310294340" \
             fill="#CCC" p-id="1105"></path></svg>';
 
 function requestCount() {
-  const [chapther, part] = window.location.pathname.split('/').slice(1, 3);
+  const [chapter, part] = window.location.pathname.split('/').slice(1, 3);
 
   const endpoints = {
     '': 'lyqWSq46kM',
@@ -22,7 +22,7 @@ function requestCount() {
     'ost': 'eKuhq8wMIJ'
   };
 
-  let endpoint = 'https://count.cab/' + (part ? 'get/' : 'hit/') + endpoints[chapther];
+  const endpoint = 'https://count.cab/' + (part ? 'get/' : 'hit/') + endpoints[chapter];
 
   return $.getJSON(endpoint);
 }
@@ -45,9 +45,7 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
 
     else bookHeader.append(renderWrapper);
 
-    requestCount().then((data) => {
-      renderWrapper.find('.page-view-counter').html(data.count);
-    });
+    requestCount().then(data => renderWrapper.find('.page-view-counter').html(data.count));
   }
 
   gitbook.events.bind('page.change', resetViewCount);
