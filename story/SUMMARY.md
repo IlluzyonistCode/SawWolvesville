@@ -59,5 +59,5 @@
   - [DAY 4](cannibal/day-4.md)
   - [DAY 5](cannibal/day-5.md)
   - [ENDING](cannibal/ending.md)
-- [🎲 Chapter VII. Hypno](hypno/README.md)
+- [🍁 Chapter VII. Blight](blight/README.md)
 - [🎵 OST](ost/README.md)

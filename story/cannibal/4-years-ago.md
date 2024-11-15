@@ -12,13 +12,13 @@ I'm only 15 years old, but I really want a girlfriend. I can't stop thinking abo
 
 *12:30*.
 
-Third class was canceled. All the students stood in the hallway, waiting for the next one to start. Vitaly was also standing there, at the window sill, with his best friend Nikolai.
+Third class was canceled. All the students stood in the hallway, waiting for the next one to start. Vitaly was also standing there, at the window sill, with his best friend Nicholas.
 
 — Let's find something in Play Market, — he suggested me.
 
 — Good idea! — I replied.
 
-Nikolai opened the program and went to the top downloads section. Leafing through the list of games and checking some of them, he stopped on one.
+Nicholas opened the program and went to the top downloads section. Leafing through the list of games and checking some of them, he stopped on one.
 
 — Soul Knight. What do you think? — He showed me the phone.
 
@@ -34,7 +34,7 @@ Suddenly, my eyes fell on the list of recommended games below the reviews. And o
 
 — Yeah.
 
-He clicked on the icon. The phone loaded the page, and Nikolai read the description aloud.
+He clicked on the icon. The phone loaded the page, and Nicholas read the description aloud.
 
 — Werewolf Online. An online social deductive werewolf game for up to 16 players. Each game has different teams, such as villagers or werewolves, fighting to be the last survivor. Use special abilities to unlock other players roles and convince your fellow guys to work with you.
 
@@ -42,7 +42,7 @@ That's when I realized: this was exactly what I needed.
 
 — Listen, this one looks interesting. Let's download it!
 
-But my friend didn't share my opinion. Nikolai wasn't the type of person who liked mind games.
+But my friend didn't share my opinion. Nicholas wasn't the type of person who liked mind games.
 
 — No, it doesn't make any sense. Let's play Soul Knight!
 
@@ -50,11 +50,11 @@ I was a little sad, but got over it and came up with a solution.
 
 — I still want to play it. I think I'll download it. You can download yours.
 
-— As you wish... — Nikolai replied with a look of displeasure.
+— As you wish... — Nicholas replied with a look of displeasure.
 
 I took my phone out of my pocket, opened Play Market and found Werewolf Online. Clicked on the download button, and while the process was going on, read more information about the game. I was very intrigued. When the game finally appeared on my device, I opened it. Selected my Google account, picked a nickname, and logged into my first game.
 
-An hour later, Nikolai walked up to me.
+An hour later, Nicholas walked up to me.
 
 — So, what do you think of Wolf Online, or whatever it's called?
 
@@ -82,7 +82,7 @@ My father used to tell me that because of my memory, I would be able to accompli
 
 All through high school, I was an honor student. But while everyone else spent whole days on such a result, I only had to read the materials once. When we were assigned to learn a poem, I recited it without stuttering in one reading. When we were given math assignments, I did them correctly in minutes, because just watching the video tutorials on the Internet gave me a full understanding of the algorithm. I never received a grade lower than a B. Because I, though lazy, could sacrifice half an hour a day for such nonsense.
 
-But there's a big flaw in me. I'm very introverted. I have no friends at all. Except for Nikolai, who in turn is the complete opposite of me in this. It's easy for him to make new friends and participate in conversations. Despite this difference, we are a great couple because we complement each other. I help him with things that require memorization and he helps me with things that require interaction with people.
+But there's a big flaw in me. I'm very introverted. I have no friends at all. Except for Nicholas, who in turn is the complete opposite of me in this. It's easy for him to make new friends and participate in conversations. Despite this difference, we are a great couple because we complement each other. I help him with things that require memorization and he helps me with things that require interaction with people.
 
 For me, easy memorization is common, so I can't say I'm happy. But I use it to the max. And in Werewolf Online, it comes in handy for me all the time. I keep every message, every claim, and every piece of information in my mind. This helps me efficiently figure out either evil players if I'm a villager, or the best players to kill if I'm a werewolf or a killer. If you see me on your team, you're very lucky. Considering all the games ruined by some gamethrowers, my win rate is 70%.
 

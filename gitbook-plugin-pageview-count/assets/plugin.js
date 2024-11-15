@@ -18,7 +18,7 @@ function requestCount() {
     'illusionist': '7YZJXuhEH8',
     'bomber': 'FpJrjusD77',
     'cannibal': 'qCFixKFCBn',
-    'hypno': 'fh8hncaVdF',
+    'blight': 'fh8hncaVdF',
     'ost': 'eKuhq8wMIJ'
   };
 

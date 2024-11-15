@@ -61,7 +61,7 @@ function music(title) {
 
   else if (title.includes('Cannibal')) play('cannibal.mp3');
 
-  else if (title.includes('Hypno')) play('hypno.mp3');
+  else if (title.includes('Blight')) play('blight.mp3');
 
   else if (title.includes('Main Characters')) pass;
 
